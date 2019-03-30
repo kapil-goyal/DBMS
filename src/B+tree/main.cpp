@@ -1,4 +1,7 @@
 #include "b+tree.h"
+#include "b+tree.cpp"
+#include "node.cpp"
+#include "node.h"
 
 int main(){
 	BPlusTree* tree = NULL;
